@@ -1,0 +1,8 @@
+C:\Users\Çişem\source\repos\C_NYP Ödevi -2\C_NYP Ödevi -2\obj\Debug\C_NYP Ödevi -2.csproj.AssemblyReference.cache
+C:\Users\Çişem\source\repos\C_NYP Ödevi -2\C_NYP Ödevi -2\obj\Debug\C_NYP Ödevi -2.csproj.CoreCompileInputs.cache
+C:\Users\Çişem\source\repos\C_NYP Ödevi -2\C_NYP Ödevi -2\bin\Debug\C_NYP Ödevi -2.exe.config
+C:\Users\Çişem\source\repos\C_NYP Ödevi -2\C_NYP Ödevi -2\bin\Debug\C_NYP Ödevi -2.exe
+C:\Users\Çişem\source\repos\C_NYP Ödevi -2\C_NYP Ödevi -2\bin\Debug\C_NYP Ödevi -2.pdb
+C:\Users\Çişem\source\repos\C_NYP Ödevi -2\C_NYP Ödevi -2\obj\Debug\C_NYP Ödevi -2.exe
+C:\Users\Çişem\source\repos\C_NYP Ödevi -2\C_NYP Ödevi -2\obj\Debug\C_NYP Ödevi -2.pdb
+C:\Users\Çişem\source\repos\C_NYP Ödevi -2\C_NYP Ödevi -2\obj\Debug\C_NYP Ödevi -2.exe.config

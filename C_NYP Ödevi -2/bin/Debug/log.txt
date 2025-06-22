@@ -1,0 +1,9 @@
+Yeterli sayıda sayı bulunamadı.
+Sıfıra bölme hatası.
+Tanımsız bir operatör girdiniz: ^
+Tanımsız bir operatör girdiniz: &
+Girdiğiniz ifade hatalı, fazla sayı veya eksik operatör olabilir.
+Yeterli sayıda sayı bulunamadı.
+Sıfıra bölme hatası.
+Girdiğiniz ifade hatalı, fazla sayı veya eksik operatör olabilir.
+Yeterli sayıda sayı bulunamadı.
